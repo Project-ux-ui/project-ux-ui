@@ -45,14 +45,38 @@ Main Window
 
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/d182b7d804cdd162306925545148a963ff81991c/main.PNG)
 
-
+Registration Window
 
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/5fad40dd669c22d655257dbcd4446fcb1e1b55d2/register.PNG)
+
+Login Window
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/d9bef4ea876e4f9297354e1860474863ff8bff3f/login.PNG)
+
+Admin Panel
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/92ddd9ba2c406afa94e62003b13a55b306653c9f/admin.PNG)
+
+Alumni Panel
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/ed2a23815224458709305a4082c41e3fb6c6a6a3/alumni.PNG)
+
+Add Friends
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/ebfc83fcf31cd5d67eba67172ba4d5bfcaf7c384/friends.PNG)
+
+User Profile
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/66e638a3ce4a7b7d12951c4a1feef167b322f79b/profile.PNG)
+
+Update User Profile
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/ebc506fdad5896774c959ef98783f862af60c790/profile%20update.PNG)
+
+Events and News Window
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/08d5e038f1f8b91081b4fe2a3da18a9839906d99/event.PNG)
-![image alt]()
+
+Internships and Jobs  Windows
+
+![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/055bd1fd1bce65876f82f5c36f3003ebbdc6f70c/internship.PNG)
