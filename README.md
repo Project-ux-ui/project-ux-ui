@@ -1,4 +1,4 @@
-<h1>Alumni Portal</h1>
+<h1>DMCE Alumni Portal</h1>
 Alumni Portal is a comprehensive web application developed using PHP, Bootstrap, DataTables, jQuery, and MySQL. The portal serves as a centralized platform for alumni engagement, offering a seamless and user-friendly experience.
 <br><br>
 
