@@ -51,7 +51,7 @@ Main Window
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/d9bef4ea876e4f9297354e1860474863ff8bff3f/login.PNG)
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/92ddd9ba2c406afa94e62003b13a55b306653c9f/admin.PNG)
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/ed2a23815224458709305a4082c41e3fb6c6a6a3/alumni.PNG)
-![image alt]()
+![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/ebfc83fcf31cd5d67eba67172ba4d5bfcaf7c384/friends.PNG)
 ![image alt]()
 ![image alt]()
 ![image alt]()
