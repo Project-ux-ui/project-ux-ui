@@ -41,4 +41,18 @@ Password: user@12345
 
 ## Website Interfaces
 
+Main Window
+
 ![image alt](https://github.com/Project-ux-ui/project-ux-ui/blob/d182b7d804cdd162306925545148a963ff81991c/main.PNG)
+
+
+
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
